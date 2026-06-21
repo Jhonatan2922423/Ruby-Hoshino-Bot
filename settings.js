@@ -15,19 +15,19 @@ global.botNumber = ''
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-  ['18093519169', '⏤͟͞ू⃪ ፝͜⁞𝘿𝙞𝙤𝙣𝙚𝙞𝙗𝙞-ʳⁱᵖ ִֶ ࣪˖ ִֶָ🐇་༘', true],
-  ['573235915041', '⏤͟͞ू⃪ ፝͜𝐅ꫀl͟𝐢𝘅 o͜͡𝗳𝐜⁞་༘', true],
-  ['18096758983', '⟆⃝༉⃟⸙ ᯽ N͙e͙v͙i͙-D͙e͙v͙ ⌗⚙️࿐', true],
-  ['573508941325', 'FELIX-DEV', true],
-  ['5216671548329', 'ू⃪ ꒰˘͈ᵕ ˘͈ 𝑳𝒆𝒈𝒏𝒂-𝒄𝒉𝒂𝒏 🪽 ꒱𖦹', true],
-  ['573114910796', 'Arlette 🎀', true],
+  ['573113328256', '𝙗𝙞-ʳⁱᵖ ִֶ ࣪˖ ִֶָ🐇་༘', true],
+  ['573113328256', '⏤͟͞𝗳𝐜⁞་༘', true],
+  ['573113328256', 'N͙e͙v͙i͙r ⌗⚙️', true],
+  ['573113328256', 'FELIX-', true],
+  ['573113328256', '-𝒄𝒉𝒂𝒏 🪽 ꒱𖦹', true],
+  ['573113328256', 'Are 🎀', true],
 
 // <-- Número @lid -->
-  ['122544745111646', 'Dioneibi', true],
-  ['236391074132098', 'NEOTOKIO', true],
+  ['122544745111646', 'i', true],
+  ['236391074132098', 'NEKIO', true],
   ['260081845334105', 'nevi', true],
-  ['58566677377081', 'legna', true],
-  ['177266856313074', 'speed3xz', true]
+  ['58566677377081', 'lena', true],
+  ['177266856313074', 'spxz', true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -73,13 +73,13 @@ global.avatar = 'https://qu.ax/RYjEw.jpeg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/C4FDdGIokmmGZLIKT4KfgD'
-global.comunidad1 = 'https://chat.whatsapp.com/BjlcnMjRlYhEL1uUBEWTNg'
-global.channel = 'https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P'
-global.channel2 = 'https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P'
+global.gp1 = 'https://chat.whatsapp.com/Hk0fBQ9ZyUMLW0jCi6leL5?s=cl&p=a&mlu=1'
+global.comunidad1 = 'https://chat.whatsapp.com/Hk0fBQ9ZyUMLW0jCi6leL5?s=cl&p=a&mlu=1'
+global.channel = 'https://chat.whatsapp.com/Hk0fBQ9ZyUMLW0jCi6leL5?s=cl&p=a&mlu=1'
+global.channel2 = 'https://chat.whatsapp.com/Hk0fBQ9ZyUMLW0jCi6leL5?s=cl&p=a&mlu=1'
 global.md = 'https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot'
-global.correo = 'nimierdalopondre@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P';
+global.correo = ''
+global.cn ='https://chat.whatsapp.com/Hk0fBQ9ZyUMLW0jCi6leL5?s=cl&p=a&mlu=1';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
