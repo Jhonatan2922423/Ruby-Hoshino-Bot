@@ -720,7 +720,7 @@ isForwarded: true}
 });
 
 
-await m.react('💛');
+await m.react('💌');
 
 await conn.sendMessage(m.chat, {
 video: { url: randomGif },
