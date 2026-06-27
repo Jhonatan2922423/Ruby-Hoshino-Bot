@@ -66,7 +66,7 @@ pkg update && pkg upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
+git clone https://github.com/Jhonatan2922423/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
 ```
 
 ```bash
@@ -89,7 +89,7 @@ npm start
   <summary><b>🚀 VER PASOS PARA CLOUD SHELL</b></summary>
 
 ```bash
-git clone https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
+git clone https://github.com/Jhonatan2922423/Ruby-Hoshino-Bot && cd Ruby-Hoshino-Bot
 ```
 
 ```bash
@@ -158,7 +158,7 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 <summary><b>🫛 VER COMANDOS</b></summary>
 
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Dioneibi-rip/Ruby-Hoshino-Bot/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Jhonatan2922423/Ruby-Hoshino-Bot/master/update.sh | bash
 ```
 
 </details>
